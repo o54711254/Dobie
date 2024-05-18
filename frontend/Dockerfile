@@ -16,4 +16,13 @@ COPY . .
 # 단계 6: 프로덕션 빌드 생성
 RUN npm run build
 
-CMD [ "npm", "start" ]
+
+
+# step 2 실행 스테이지를 위한 과정
+FROM nginx:alpine
+
+RUN rm -rf /etc/nginx/conf.d
+COPY conf /etc/nginx
+COPY --from=builder /usr/src/app/build /usr/share/nginx/html
+EXPOSE 80
+CMD ["nginx", "-g", "daemon off;"]
