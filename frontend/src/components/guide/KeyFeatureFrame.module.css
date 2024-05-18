@@ -1,0 +1,99 @@
+.guideFrame {
+  margin-left: 5vw;
+  margin-top: 10vh;
+  margin-bottom: 10vh;
+}
+.header {
+  margin-top: 3vh;
+  margin-bottom: 2vh;
+}
+.title {
+  display: flex;
+  align-items: center;
+  gap: 1vw;
+  font-size: 2.5vw;
+  font-weight: 800;
+  line-height: 150%;
+  margin-bottom: 2vh;
+}
+.normal {
+  font-size: 1.2vw;
+  font-weight: 500;
+  line-height: 180%;
+}
+.section {
+  margin-top: 2vw;
+  margin-bottom: 2vw;
+}
+.strength {
+  font-size: 2vw;
+  font-weight: 600;
+  line-height: 180%;
+}
+.navbarImg {
+  width: 20vw;
+}
+.imgBox {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 60vw;
+  margin-top: 2vh;
+  margin-bottom: 2vh;
+}
+
+.caption {
+  width: 100%;
+  font-size: 0.8vw;
+  font-weight: 600;
+  color: #898989;
+  text-align: center;
+}
+.ProjectInfoImg {
+  width: 60vw;
+}
+.LogImg1 {
+  width: 40vw;
+}
+.LogImg2 {
+  width: 40vw;
+}
+.gitSelectBox {
+  display: flex;
+}
+.gitSelectIcon {
+  width: 5vw;
+  cursor: pointer;
+}
+.gitIcon {
+  opacity: 0.7;
+  width: 5vw;
+  cursor: pointer;
+}
+.gitSelectIcon:hover {
+  opacity: 0.8;
+  transform: scale(1.05);
+  transition: 0.3s ease-in-out;
+}
+.gitIcon:hover {
+  opacity: 0.8;
+  transform: scale(1.05);
+  transition: 0.3s ease-in-out;
+}
+.gitImgBox {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 8vw;
+  margin-top: 2vh;
+  margin-bottom: 2vh;
+}
+.gitCaption {
+  text-align: center;
+  width: 5vw;
+  font-size: 0.8vw;
+  font-weight: 600;
+}
+.smallImg {
+  width: 30vw;
+}

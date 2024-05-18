@@ -1,0 +1,14 @@
+.page{
+    width: 83%;
+    position: relative;
+    top: 10%;
+    left: 17%;
+}
+.img {
+    width: 40%;
+}
+.con {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

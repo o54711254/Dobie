@@ -1,0 +1,172 @@
+.page {
+  width: 83%;
+  position: relative;
+  top: 10%;
+  left: 17%;
+  display: flex;
+  flex-direction: column;
+  height: 110%;
+}
+
+.top {
+  display: inline-flex;
+  padding: 2% 8%;
+  justify-content: space-between;
+}
+
+.text {
+  margin-right: 1vh;
+}
+
+.projectName {
+  font-size: 5vh;
+  font-weight: 600;
+}
+
+.buttons {
+  display: inline-flex;
+  align-items: flex-end;
+}
+
+.buttons > div {
+  display: inline-flex;
+  align-items: center;
+}
+
+.buttons > div > img {
+  margin-left: 1vh;
+}
+
+.webhook {
+  height: 40%;
+  color: white;
+  font-weight: 600;
+  background-color: #e5aa17;
+  border-radius: 10px;
+  padding: 1vh 1vw;
+  margin: 0 0.5vw;
+  cursor: pointer;
+}
+
+.webhook:hover {
+  opacity: 0.8;
+  transform: scale(1.05);
+  transition: 0.3s ease-in-out;
+}
+
+.edit {
+  height: 40%;
+  color: white;
+  font-weight: 600;
+  background-color: #6096b4;
+  border-radius: 10px;
+  padding: 1vh 1vw;
+  margin: 0 0.5vw;
+  cursor: pointer;
+}
+
+.webhook > img {
+  height: 3.5vh;
+}
+.edit > img {
+  height: 3.5vh;
+}
+.remove > img {
+  height: 3.5vh;
+}
+
+.edit:hover {
+  opacity: 0.8;
+  transform: scale(1.05);
+  transition: 0.3s ease-in-out;
+}
+
+.remove {
+  height: 40%;
+  color: white;
+  font-weight: 600;
+  background-color: #4a7a94;
+  border-radius: 10px;
+  padding: 1vh 1vw;
+  cursor: pointer;
+}
+
+.remove:hover {
+  opacity: 0.8;
+  transform: scale(1.05);
+  transition: 0.3s ease-in-out;
+}
+
+.ningx {
+  color: #6096b4;
+  font-weight: 600;
+  background-color: #eee9da;
+  border-radius: 10px;
+  padding: 1vh 1vw;
+  margin: 0 0.5vw;
+  cursor: pointer;
+}
+
+.containerButton > div {
+  display: inline-flex;
+}
+
+.fileButton {
+  color: #6096b4;
+  font-weight: 600;
+  background-color: #eee9da;
+  border-radius: 10px;
+  padding: 5px 15px;
+  margin: 0 5px;
+  text-align: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.fileButton:hover {
+  opacity: 0.8;
+  transform: scale(1.05);
+  transition: 0.3s ease-in-out;
+}
+
+.runButtonIcon {
+  width: 2.4vw;
+  margin-right: 0.5vw;
+  cursor: pointer;
+}
+.runButtonIcon:hover {
+  opacity: 0.8;
+  transform: scale(1.05);
+  transition: 0.3s ease-in-out;
+}
+
+.stopButtonIcon {
+  width: 2.4vw;
+  cursor: pointer;
+}
+
+.stopButtonIcon:hover {
+  opacity: 0.8;
+  transform: scale(1.05);
+  transition: 0.3s ease-in-out;
+}
+
+.mid {
+  display: inline-flex;
+  align-items: center;
+  padding: 0 8%;
+  margin-bottom: 3%;
+  justify-content: space-between;
+}
+
+.mid > div {
+  align-items: center;
+}
+
+.mid > div {
+  display: inline-flex;
+}
+
+.btnIcon {
+  height: 4vh;
+}
