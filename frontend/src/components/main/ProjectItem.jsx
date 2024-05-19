@@ -74,8 +74,17 @@ export default function ProjectItem({ project }) {
       if (response.data.status === "SUCCESS") {
         setLoadingModal(false);
         toast.success("빌드파일이 성공적으로 생성되었습니다.");
+      } else {
+        setLoadingModal(false);
+        toast.error(response.data.message, {
+          position: "top-center",
+        });
       }
     } catch (error) {
+      setLoadingModal(false);
+      toast.error(`빌드를 실패했습니다. `, {
+        position: "top-center",
+      });
       console.log("에러발생", error);
     }
   };
