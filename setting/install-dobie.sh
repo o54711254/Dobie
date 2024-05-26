@@ -208,7 +208,7 @@ sudo apt install git
 git clone https://github.com/o54711254/Dobie.git
 
 export IP_ADDRESS=$(curl -4 ifconfig.me)
-echo "REACT_APP_SERVER=http://$IP_ADDRESS:8010/api" > ./S10P31B101/frontend/.env
+echo "REACT_APP_SERVER=http://$IP_ADDRESS:8010/api" > ./Dobie/frontend/.env
 
 
 
