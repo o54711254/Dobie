@@ -2,11 +2,9 @@
 
 # Dobie
 
-
 ### 🏆삼성 청년 SW아카데미(SSAFY) 10th 자율 프로젝트 우수상(2위)🏆
 
 > 초보자를 위한 인프라 서비스 플랫폼
-> 
 
 ## 목차
 
@@ -38,30 +36,29 @@ Dobie는 배포를 처음 경험해보는 초보 개발자들이 많은 시간�
 
 📚 **사용 기술 스택**
 
-- Frontend 
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> 
-<img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=MUI&logoColor=white">
+- Frontend
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=MUI&logoColor=white">
 
 - Backend
-<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> 
-<img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
 
 - Infra
-<img src="https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"> 
-<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=amazonec2&logoColor=white"> 
-<img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> 
-<img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
+  <img src="https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
+  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=amazonec2&logoColor=white">
+  <img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+  <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
 
 - 협업 툴
-<img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"> 
-<img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"> 
-<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> 
-<img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white">
+  <img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
+  <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
+  <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+  <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white">
 
 - 디자인
-<img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-
+  <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 
 ## 🚩 프로젝트 차별성
 
@@ -71,11 +68,11 @@ Dobie는 배포를 처음 경험해보는 초보 개발자들이 많은 시간�
 - 토글 버튼 하나로 쉽게 SSL인증서를 발급 받고 https를 사용할 수 있습니다.
 - 데이터베이스를 사용하지 않고 json 파일에 필요한 데이터를 저장하여 불필요한 서버 리소스를 절약하였습니다.
 - 다양한 프레임워크를 지원합니다
-    | 분류 | 프레임워크 |
-    | --- | --- |
-    | Backend | <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> |
-    | Frontend | <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/vuedotjs-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"> |
-    | Database | <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"> |
+  | 분류 | 프레임워크 |
+  | --- | --- |
+  | Backend | <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> |
+  | Frontend | <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/vuedotjs-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"> |
+  | Database | <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"> |
 
 ## 🚩 Shell Script
 
@@ -89,7 +86,7 @@ Dobie는 배포를 처음 경험해보는 초보 개발자들이 많은 시간�
 # 스크립트 실행 시 발생할 수 있는 모든 에러를 처리합니다.
 set -e
 
-# 1. Docker 설E치
+# 1. Docker 설치
 # Docker가 이미 설치되어 있지 않은 경우 설치합니다.
 
 for pkg in docker.io docker-doc docker-compose docker-compose-v2 containerd runc; do sudo apt-get remove $pkg; done
@@ -127,6 +124,8 @@ else
     echo "Let's Encrypt 설치에 실패했습니다."
 fi
 
+
+
 # 3. nginx config 폴더 생성
 # /var/dobie/nginx 폴더가 없으면 생성합니다.
 if [ ! -d "/var/dobie/nginx" ]; then
@@ -149,6 +148,7 @@ else
     echo "data 폴더가 이미 존재합니다."
 fi
 
+
 # sslLog  파일 생성
 # /logfile.log 파일이 없으면 생성합니다.
 if [ ! -f "/logfile.log" ]; then
@@ -163,10 +163,11 @@ else
     echo "logfile.log 파일이 이미 존재합니다."
 fi
 
+
 cd /var/dobie/data
-sudo wget https://raw.githubusercontent.com/eunnseok/dobie-deploy/main/data/user.json
-sudo wget https://raw.githubusercontent.com/eunnseok/dobie-deploy/main/data/project.json
-sudo wget https://raw.githubusercontent.com/eunnseok/dobie-deploy/main/data/refreshToken.json
+sudo wget https://raw.githubusercontent.com/o54711254/Dobie/main/setting/user.json
+sudo wget https://raw.githubusercontent.com/o54711254/Dobie/main/setting/project.json
+sudo wget https://raw.githubusercontent.com/o54711254/Dobie/main/setting/refreshToken.json
 cd ~
 
 # 5. Docker network 생성
@@ -178,46 +179,51 @@ else
     echo "dobie 네트워크가 이미 존재합니다."
 fi
 
+
+
 # 6. 파이프 생성
 pipe_path="/var/dobie/ssl"
 
 # named pipe가 존재하지 않을 때만 실행
 if [ ! -p "$pipe_path" ]; then
-    # mkfifo 명령을 실행할 수 있는지 확인하고 권한 부여
-    if ! [ -x "$(command -v mkfifo)" ]; then
+  # mkfifo 명령을 실행할 수 있는지 확인하고 권한 부여
+  if ! [ -x "$(command -v mkfifo)" ]; then
     echo 'mkfifo 명령을 찾을 수 없습니다. 권한을 부여합니다.'
     sudo chmod +x "$(command -v mkfifo)"
     if [ $? -ne 0 ]; then
-        echo 'Error: 권한을 부여할 수 없습니다.'
+      echo 'Error: 권한을 부여할 수 없습니다.'
     fi
-    fi
-    
-    # named pipe를 생성할 디렉토리에 쓰기 권한이 없을 때 권한 부여
-    if [ ! -w "$(dirname "$pipe_path")" ]; then
+  fi
+
+  # named pipe를 생성할 디렉토리에 쓰기 권한이 없을 때 권한 부여
+  if [ ! -w "$(dirname "$pipe_path")" ]; then
     echo 'named pipe를 생성할 디렉토리에 쓰기 권한이 없습니다. 권한을 부여합니다.'
     sudo chmod +w "$(dirname "$pipe_path")"
     if [ $? -ne 0 ]; then
-        echo 'Error: 권한을 부여할 수 없습니다.'
+      echo 'Error: 권한을 부여할 수 없습니다.'
     fi
-    fi
-    
-    # named pipe 생성
-    sudo mkfifo "$pipe_path"
-    if [ $? -eq 0 ]; then
+  fi
+
+  # named pipe 생성
+  sudo mkfifo "$pipe_path"
+  if [ $? -eq 0 ]; then
     echo "Named pipe 생성 완료: $pipe_path"
-    else
+  else
     echo "Error: Named pipe를 생성할 수 없습니다."
-    fi
+  fi
 else
-    echo "이미 존재하는 named pipe입니다: $pipe_path"
+  echo "이미 존재하는 named pipe입니다: $pipe_path"
 fi
+
+
+
 
 #7. 서버 재시작 시 파이프 자동연
 script_path="/pipe_config/pipe_script.sh"
 
 # /pipe_config 디렉토리가 존재하지 않거나, 해당 디렉토리에 pipe_script.sh 파일이 없을 때에만 작성 및 저장
 if [ ! -d "/pipe_config" ] || [ ! -f "$script_path" ]; then
-    
+
     # 스크립트 작성
     echo '#!/bin/bash
     sudo sh -c "
@@ -229,10 +235,11 @@ if [ ! -d "/pipe_config" ] || [ ! -f "$script_path" ]; then
 
     sudo chmod +x pipe_script.sh
 
+
     # 스크립트 저장
     sudo mkdir -p /pipe_config
     sudo mv pipe_script.sh /pipe_config/
-    
+
     if [ -f "/pipe_config/pipe_script.sh" ]; then
         echo "스크립트 작성 및 저장이 완료되었습니다."
     else
@@ -242,7 +249,11 @@ else
     echo "이미 /pipe_config 디렉토리가 존재하거나 해당 디렉토리에 pipe_script.sh 파일이 존재합니다."
 fi
 
+
+
+
 sudo chmod +x /pipe_config/pipe_script.sh
+
 
 cron_setting="@reboot $script_path"
 cron_settings_file="cron_settings"
@@ -256,7 +267,7 @@ if [ -p "$pipe_path" ] && [ -f "$script_path" ]; then
 
         # 새로운 crontab 파일로 적용
         crontab "$cron_settings_file"
-        
+
         # 임시 파일 제거
         rm "$cron_settings_file"
 
@@ -273,21 +284,24 @@ else
     echo "Named pipe와/또는 스크립트 파일이 존재하지 않습니다."
 fi
 
+
 # 8. git 설치 / 소스코드 clone /.env 파일(ip 관련) 생성
 sudo apt install git
 
-git clone https://oauth2:rYWbAwDm9hUVynwz5PHp@lab.ssafy.com/s10-final/S10P31B101.git
+git clone https://github.com/o54711254/Dobie.git
 
 export IP_ADDRESS=$(curl -4 ifconfig.me)
-echo "REACT_APP_SERVER=http://$IP_ADDRESS:8010/api" > ./S10P31B101/frontend/.env
+echo "REACT_APP_SERVER=http://$IP_ADDRESS:8010/api" > ./Dobie/frontend/.env
 
-# 9. docker-compose.yaml 가져온 후 실행
-echo "Dobie의 docker-compose.yaml 을 가져옵니다."
-wget https://raw.githubusercontent.com/eunnseok/dobie-deploy/main/docker-compose.yaml
+
+
+# 9. docker-compose.yml 가져온 후 실행
+echo "Dobie의 docker-compose.yml 을 가져옵니다."
+wget https://raw.githubusercontent.com/o54711254/Dobie/main/setting/docker-compose.yml
 
 if [ $? -eq 0 ]; then
     echo "Docker Compose 파일이 성공적으로 저장되었습니다."
-    sudo docker compose -f docker-compose.yaml up -d
+    sudo docker compose -f docker-compose.yml up -d
 else
     echo "Docker Compose 파일을 가져오는 데 문제가 발생했습니다."
 fi
@@ -301,9 +315,9 @@ if [ -p "$pipe_path" ]; then
 fi
 
 ```
-</div>
-</details>    
 
+</div>
+</details>
 
 ## 🚩 디렉터리 구조
 
@@ -569,16 +583,14 @@ fi
      ┣ 📜index.js
      ┣ 📜Main.jsx
      ┗ 📜setupTests.jsx
-    
 
 </div>
 </details>
 
 <details>
 <summary>Backend</summary>
-<div>  
+<div>
 
-    
     📦src
      ┣ 📂main
      ┃ ┣ 📂java
@@ -769,17 +781,16 @@ fi
      ┃ ┃ ┃ ┗ 📂dobie
      ┃ ┃ ┃ ┃ ┗ 📂backend
      ┃ ┃ ┃ ┃ ┃ ┗ 📜BackendApplicationTests.java
-    
+
 </div>
 </details>
-
 
 ## 🚩 주요 구현 기능
 
 ### 회원가입, 로그인 페이지
 
 - 회원가입을 통해 자신의 프로젝트를 관리할 수 있습니다.
-- 저장된 회원 데이터는 json파일  형식으로 저장됩니다.
+- 저장된 회원 데이터는 json파일 형식으로 저장됩니다.
 - Spring Security + JWT 방식으로 구현되었습니다.
 
 ![회원가입로그인.gif](./assets/회원가입로그인.gif)
@@ -796,14 +807,12 @@ fi
 - 새로운 프로젝트를 등록할 수 있습니다.
 - named pipe를 사용하여 토글버튼을 통해 간편하게 https를 사용할 수 있도록 구현하였습니다.
 - 입력 정보
-    
-    
-    | Project | 프로젝트명, Domain Name, Git Type, Git Clone URL, Access Token, Branch, https 적용 여부 |
-    | --- | --- |
-    | Backend | 프레임워크, 언어버전, 폴더 경로, Nginx Location, 내부 포트 번호 |
-    | Frontend | 프레임워크, 언어버전, 폴더 경로, Nginx Location, 내부 포트 번호 |
-    | DB | 데이터베이스, Username, Password, 데이터베이스 명, 초기 데이터 파일 경로,
-    외부 포트 번호, 내부 포트 번호 |
+  | Project | 프로젝트명, Domain Name, Git Type, Git Clone URL, Access Token, Branch, https 적용 여부 |
+  | ------------------------------ | --------------------------------------------------------------------------------------- |
+  | Backend | 프레임워크, 언어버전, 폴더 경로, Nginx Location, 내부 포트 번호 |
+  | Frontend | 프레임워크, 언어버전, 폴더 경로, Nginx Location, 내부 포트 번호 |
+  | DB | 데이터베이스, Username, Password, 데이터베이스 명, 초기 데이터 파일 경로, |
+  | 외부 포트 번호, 내부 포트 번호 |
 
 ![프로젝트등록.gif](./assets/프로젝트등록.gif)
 
@@ -859,10 +868,10 @@ fi
 
 ## 🚩 팀원 소개
 
-| 고은석 | 박혜선 | 심규리 |
-| --- | --- | --- |
-| <img src="./assets/eun.jpg" width="200"/> | <img src="./assets/seon.png" width="200"/> | <img src="./assets/ri.jpg" width="200"/> |
-| BE :  JSON file I/O, <br>설치 shell script<br>FE : 프로젝트 생성 페이지<br>Infra: microk8s + Jenkins를 <br>통한 배포용 이미지 생성 | BE : 도커 컴포즈 파일 생성, <br>환경변수 파일 업로드/삭제 API<br>FE : 프로젝트 디자인 및 css, <br>환경 변수 파일 페이지 | BE : Spring Security와 jwt 인증, <br>인가 구현, 로그인 API<br>FE : 프로젝트 수정 페이지, API 연결 |
-| 오건영 | 유호정 | 이우진 |
-| <img src="./assets/kun.jpg" width="200"/> | <img src="./assets/ho.PNG" width="200"/> | <img src="./assets/woo.png" width="200"/> |
-| BE : 리눅스 명령어 실행 API,<br>Webhooks 활용 자동배포<br>FE : 가이드페이지 | BE:  Nginx Reverse Proxy 설정, <br>Nginx Frontend 웹 서버 설정, <br>SSL인증서 발급 API<br>FE : 프로젝트 실행상태 조회, <br>프로젝트 상세조회 | BE : 도커파일 생성, <br>컨테이너 상태 및 로그 조회 API, <br>도커파일, 도커컴포즈 파일 조회 API<br>FE : 컨테이너 로그 조회, <br>프로젝트 목록 페이지 css |
+| 고은석                                                                                                                            | 박혜선                                                                                                                                      | 심규리                                                                                                                                                  |
+| --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="./assets/eun.jpg" width="200"/>                                                                                         | <img src="./assets/seon.png" width="200"/>                                                                                                  | <img src="./assets/ri.jpg" width="200"/>                                                                                                                |
+| BE : JSON file I/O, <br>설치 shell script<br>FE : 프로젝트 생성 페이지<br>Infra: microk8s + Jenkins를 <br>통한 배포용 이미지 생성 | BE : 도커 컴포즈 파일 생성, <br>환경변수 파일 업로드/삭제 API<br>FE : 프로젝트 디자인 및 css, <br>환경 변수 파일 페이지                     | BE : Spring Security와 jwt 인증, <br>인가 구현, 로그인 API<br>FE : 프로젝트 수정 페이지, API 연결                                                       |
+| 오건영                                                                                                                            | 유호정                                                                                                                                      | 이우진                                                                                                                                                  |
+| <img src="./assets/kun.jpg" width="200"/>                                                                                         | <img src="./assets/ho.PNG" width="200"/>                                                                                                    | <img src="./assets/woo.png" width="200"/>                                                                                                               |
+| BE : 리눅스 명령어 실행 API,<br>Webhooks 활용 자동배포<br>FE : 가이드페이지                                                       | BE: Nginx Reverse Proxy 설정, <br>Nginx Frontend 웹 서버 설정, <br>SSL인증서 발급 API<br>FE : 프로젝트 실행상태 조회, <br>프로젝트 상세조회 | BE : 도커파일 생성, <br>컨테이너 상태 및 로그 조회 API, <br>도커파일, 도커컴포즈 파일 조회 API<br>FE : 컨테이너 로그 조회, <br>프로젝트 목록 페이지 css |
