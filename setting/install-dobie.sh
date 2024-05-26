@@ -212,13 +212,13 @@ echo "REACT_APP_SERVER=http://$IP_ADDRESS:8010/api" > ./Dobie/frontend/.env
 
 
 
-# 9. docker-compose.yaml 가져온 후 실행
-echo "Dobie의 docker-compose.yaml 을 가져옵니다."
+# 9. docker-compose.yml 가져온 후 실행
+echo "Dobie의 docker-compose.yml 을 가져옵니다."
 wget https://raw.githubusercontent.com/o54711254/Dobie/main/setting/docker-compose.yml
 
 if [ $? -eq 0 ]; then
     echo "Docker Compose 파일이 성공적으로 저장되었습니다."
-    sudo docker compose -f docker-compose.yaml up -d
+    sudo docker compose -f docker-compose.yml up -d
 else
     echo "Docker Compose 파일을 가져오는 데 문제가 발생했습니다."
 fi
